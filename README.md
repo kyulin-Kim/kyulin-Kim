@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Hello,%20World!&fontSize=90" />
 
-# kyulin
-<a href="https://www.notion.so/0f9b079b73864de8a35df2cc33ad9515?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+# kyulin <a href="https://www.notion.so/0f9b079b73864de8a35df2cc33ad9515?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+
+
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
