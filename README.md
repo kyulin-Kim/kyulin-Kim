@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=300&section=header&text=Hello,%20World!&fontSize=90" />
 
-# kyulin 
+# Kyulin 🫶
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyulin-Kim&layout=compact"> 
 <img src="https://github-readme-stats.vercel.app/api?username=kyulin-Kim&show_icons=true">
@@ -30,7 +30,7 @@
 <br>
 <a href="https://www.notion.so/0f9b079b73864de8a35df2cc33ad9515?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=250&section=footer" />
 <!--
 **kyulin-Kim/kyulin-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
