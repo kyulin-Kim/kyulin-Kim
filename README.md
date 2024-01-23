@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=feac5e&height=300&section=header&text=Hello,%20World!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=300&section=header&text=Hello,%20World!&fontSize=90" />
 
 # kyulin 
 
@@ -14,6 +14,8 @@
 </div>
 <br>
 🌱 내가 사용했던 것들
+<br>
+<br>
 <div align = "left">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white" />
@@ -25,9 +27,10 @@
 
 🍊 나를 알아갈 수 있는 곳
 <br>
+<br>
 <a href="https://www.notion.so/0f9b079b73864de8a35df2cc33ad9515?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=feac5e&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=150&section=footer" />
 <!--
 **kyulin-Kim/kyulin-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
