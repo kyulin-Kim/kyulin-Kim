@@ -2,10 +2,12 @@
 
 # Kyulin 🫶
 
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyulin-Kim&layout=compact"> 
 <img src="https://github-readme-stats.vercel.app/api?username=kyulin-Kim&show_icons=true">
 
-🌱 내가 배우고 있는 것들
+🌱 ***내가 배우고 있는 것들***
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
@@ -13,7 +15,8 @@
   	
 </div>
 <br>
-🌱 내가 사용했던 것들
+
+🌱 ***내가 사용했던 것들***
 <br>
 <br>
 <div align = "left">
@@ -25,7 +28,7 @@
 </div>
 <br>
 
-🍊 나를 알아갈 수 있는 곳
+🍊 ***나를 알아갈 수 있는 곳***
 <br>
 <br>
 <a href="https://www.notion.so/0f9b079b73864de8a35df2cc33ad9515?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
