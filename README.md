@@ -34,7 +34,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=250&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=100&section=footer" />
 <!--
 **kyulin-Kim/kyulin-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
