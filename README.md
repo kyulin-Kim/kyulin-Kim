@@ -9,7 +9,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyulin-Kim&layout=compact"> 
-<img src="https://github-readme-stats.vercel.app/api?username=kyulin-Kim&show_icons=true">
+
 
 🌱 ***내가 배우고 있는 것들***
 <div align="left">
